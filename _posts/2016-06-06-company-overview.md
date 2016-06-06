@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Company Overview
-datePublished: '2016-06-06T08:10:51.275Z'
-dateModified: '2016-06-06T07:50:18.093Z'
+datePublished: '2016-06-06T08:18:09.997Z'
+dateModified: '2016-06-06T08:17:16.026Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-company-overview.md
