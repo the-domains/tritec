@@ -1,0 +1,29 @@
+name: 'Tritec Integrated Philippines, Inc'
+favicon: null
+layout_spectrum: 0.4195472893770784
+typography_spectrum: 0.5120533688459545
+title: 'Tritec Integrated Philippines, Inc.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1819293664302677
+  lightness: 0.07343097683042288
+  saturation: 0.9080868971068412
+  rhythmicContrast: 0.7216068413108587
+purpose: []
