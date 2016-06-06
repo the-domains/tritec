@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Sample Text
-datePublished: '2016-06-06T08:39:30.137Z'
-dateModified: '2016-06-06T08:38:48.431Z'
+datePublished: '2016-06-06T09:02:21.041Z'
+dateModified: '2016-06-06T08:59:53.244Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-sample-text.md
