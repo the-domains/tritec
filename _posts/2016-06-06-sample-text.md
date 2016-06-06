@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Sample Text
-datePublished: '2016-06-06T08:38:40.336Z'
-dateModified: '2016-06-06T08:37:03.104Z'
+datePublished: '2016-06-06T08:39:30.137Z'
+dateModified: '2016-06-06T08:38:48.431Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-sample-text.md
