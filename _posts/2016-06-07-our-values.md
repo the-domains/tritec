@@ -8,8 +8,8 @@ description: >-
   Customers First – Satisfaction of our customers is the very core of the
   organization. Delivering efficient-cost, quality and dependable products and
   services is the main priority of our company.
-datePublished: '2016-06-07T07:43:45.638Z'
-dateModified: '2016-06-07T07:42:06.792Z'
+datePublished: '2016-06-07T08:02:02.926Z'
+dateModified: '2016-06-07T07:43:53.524Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-our-values.md
