@@ -4,7 +4,7 @@
         <description><![CDATA[Tritec Integrated Philippines, Inc.]]></description>
         <link>https://thegrid.ai/tritec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 08:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 08:02:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tritec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Overview]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Tue, 07 Jun 2016 08:01:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Our Values]]></title>
-            <description><![CDATA[<p>Customers First – Satisfaction of our customers is the very core of the organization. Delivering efficient-cost, quality and dependable products and services is the main priority of our company.</p>]]></description>
-            <link>https://thegrid.ai/tritec/our-values/index.html</link>
-            <guid isPermaLink="false">4d747c6a-4382-4ce1-9056-6d588656dad1</guid>
-            <pubDate>Tue, 07 Jun 2016 08:02:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mission & Vision]]></title>
             <description><![CDATA[<p>Our vision is to be the country’s forerunner in technological products and services giving the Filipino people the options in developing their business or personal needs with products and services tailored to their needs and wants.</p>]]></description>
             <link>https://thegrid.ai/tritec/mission-and-vision/index.html</link>
             <guid isPermaLink="false">dcaa85bf-7fd4-4726-880a-ab17608f264a</guid>
             <pubDate>Tue, 07 Jun 2016 08:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Values]]></title>
+            <description><![CDATA[<p>Customers First – Satisfaction of our customers is the very core of the organization. Delivering efficient-cost, quality and dependable products and services is the main priority of our company.</p>]]></description>
+            <link>https://thegrid.ai/tritec/our-values/index.html</link>
+            <guid isPermaLink="false">4d747c6a-4382-4ce1-9056-6d588656dad1</guid>
+            <pubDate>Tue, 07 Jun 2016 07:43:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
