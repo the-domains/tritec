@@ -9,8 +9,8 @@ description: >-
   services giving the Filipino people the options in developing their business
   or personal needs with products and services tailored to their needs and
   wants.
-datePublished: '2016-06-07T07:43:55.021Z'
-dateModified: '2016-06-07T07:42:17.513Z'
+datePublished: '2016-06-07T08:01:42.166Z'
+dateModified: '2016-06-07T07:44:04.441Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-mission-and-vision.md
