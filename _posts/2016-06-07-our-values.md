@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Customers First – Satisfaction of our customers is the very core of the
   organization. Delivering efficient-cost, quality and dependable products and
-  services is the main priority of our company. 
-datePublished: '2016-06-07T07:32:42.600Z'
-dateModified: '2016-06-07T07:32:41.237Z'
+  services is the main priority of our company.
+datePublished: '2016-06-07T07:43:45.638Z'
+dateModified: '2016-06-07T07:42:06.792Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-07-our-values.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-our-values.md
 url: our-values/index.html
 _type: Article
 
@@ -28,7 +28,4 @@ _type: Article
 
 **Workforce** -- We strive to give our people the rightful benefits and opportunities to grow and develop further their talents and skills.
 
-**Social Responsibility** -- As a fully-owned Filipino
-corporation, our corporate social responsibility is to enrich and alleviate the
-lives of the Filipino people by creating jobs and opportunities in the coming
-years.
+**Social Responsibility** -- As a fully-owned Filipino corporation, our corporate social responsibility is to enrich and alleviate the lives of the Filipino people by creating jobs and opportunities in the coming years.
