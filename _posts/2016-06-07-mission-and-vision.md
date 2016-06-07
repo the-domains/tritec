@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Our vision is to be the country’s forerunner in technological products and
   services giving the Filipino people the options in developing their business
   or personal needs with products and services tailored to their needs and
-  wants. 
-datePublished: '2016-06-07T07:27:37.661Z'
-dateModified: '2016-06-07T07:26:08.503Z'
+  wants.
+datePublished: '2016-06-07T07:42:08.923Z'
+dateModified: '2016-06-07T07:42:01.513Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-07-mission-and-vision.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-mission-and-vision.md
 url: mission-and-vision/index.html
 _type: Article
 
