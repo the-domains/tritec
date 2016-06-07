@@ -15,14 +15,14 @@ description: >-
   one of the first in Asia. Tritec Integrated Philippines is also into
   distribution and importation of telecommunications products in the
   Philippines.
-datePublished: '2016-06-07T08:21:52.241Z'
-dateModified: '2016-06-07T08:20:44.751Z'
+datePublished: '2016-06-07T09:01:23.603Z'
+dateModified: '2016-06-07T08:42:15.709Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-company-overview.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: company-overview/index.html
 _type: Article
 
