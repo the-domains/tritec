@@ -9,8 +9,8 @@ description: >-
   services giving the Filipino people the options in developing their business
   or personal needs with products and services tailored to their needs and
   wants.
-datePublished: '2016-06-07T08:23:32.476Z'
-dateModified: '2016-06-07T08:23:31.552Z'
+datePublished: '2016-06-07T08:34:29.388Z'
+dateModified: '2016-06-07T08:31:43.526Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-mission-and-vision.md
@@ -21,6 +21,8 @@ url: mission-and-vision/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b330dd-cdae-455e-84c6-c0f4133413da.png)
+
 Our vision is to be the country's forerunner in technological products and services giving the Filipino people the options in developing their business or personal needs with products and services tailored to their needs and wants.
 
 It is also our vision to create a symmetrical relationship with the people who shares our philosophy and values to create a dependable, sustainable and effective society as for the present and for the coming years. We firmly believe that linking people with technology through enhanced communication will lead to a brighter future for all.
