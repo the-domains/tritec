@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Private networking division
-datePublished: '2016-06-08T07:08:49.720Z'
-dateModified: '2016-06-08T07:03:59.220Z'
+datePublished: '2016-06-08T07:53:32.382Z'
+dateModified: '2016-06-08T07:52:08.319Z'
 title: ''
 author:
   - name: ''
@@ -36,7 +36,7 @@ Computer hardware devices used to establish, maintain, and terminate communicati
 * WAN
 
 **Telephony equipment**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0525ddd7-7dfd-4e1e-bdba-52ffac60b3c2.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b138fccb729ce47f328b959cce14195c408091d.png)
 
 Automatic telephone switching system for private enterprises. IP PABX is a hosted VoIP service provider which enables you to have Virtual IP PABX Systems on the cloud without maintaining your own in house system.
 
@@ -47,7 +47,7 @@ Automatic telephone switching system for private enterprises. IP PABX is a hoste
 * WiFi Phones
 
 **Data & Cable Management**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4ac9c08-2bbb-43b3-9c0f-a2878dbbc1ae.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/465bf427a570435e8793194c31cd7ac76902a6fd.png)
 
 Proper manage of data and power cabling within an IT enclosure will deliver a number of benefits that will enhance your system availability and improve your bottom line. Data centers contain two basic types of equipment enclosure server cabinets and network cabinets.
 
