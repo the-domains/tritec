@@ -15,18 +15,19 @@ description: >-
   one of the first in Asia. Tritec Integrated Philippines is also into
   distribution and importation of telecommunications products in the
   Philippines.
-datePublished: '2016-06-08T02:21:03.683Z'
-dateModified: '2016-06-08T02:21:02.057Z'
+datePublished: '2016-06-08T05:44:26.723Z'
+dateModified: '2016-06-08T05:44:26.284Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-company-overview.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: company-overview/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c76662-6a5e-4fdc-b9d2-77be897f5c21.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56aadf355ef7266bd02bfdfb6185466429d2fd2f.jpg)
 
 Tritec Integrated Philippines Inc. is a newly established 100% Filipino owned corporation, formed to enrich people's lives by delivering the latest technologies in voice and data communications, system integration, communications systems, building management systems along with its own engineering division. Other products include complete offering of products and services in renewable energy which includes the company-woned brand of solar charger, the GreenMobile Solar Charger, the first and only Filipino brand and one of the first in Asia. Tritec Integrated Philippines is also into distribution and importation of telecommunications products in the Philippines.
