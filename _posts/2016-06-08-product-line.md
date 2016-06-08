@@ -5,20 +5,23 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Private networking division
-datePublished: '2016-06-08T02:04:40.213Z'
-dateModified: '2016-06-08T02:04:29.609Z'
+datePublished: '2016-06-08T02:14:20.137Z'
+dateModified: '2016-06-08T02:13:53.799Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-08-product-line.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-product-line.md
 url: product-line/index.html
 _type: Article
 
 ---
-**Private networking division**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2328234d-abb4-4698-95f6-759673df1493.jpg)
+
+**Private networking division**
 
 Networking is the essential part and process of communication today. Network in general is the interconnection of groups or systems with their own set of purpose and task to create a collective performance to obtain a harmonious result in operation. With Tritec Integrated Philippines, Inc.'s PND, we specialized in giving you the best product option from structured cabling components, wireless solution to data enclosures, partnering only with the best and reliable brands in the world of voice and data communications
 
