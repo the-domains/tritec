@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Contact Information
-datePublished: '2016-06-08T02:32:18.531Z'
-dateModified: '2016-06-08T02:31:42.751Z'
+datePublished: '2016-06-08T02:39:57.225Z'
+dateModified: '2016-06-08T02:39:45.256Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-08-contact-us.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-contact-us.md
 url: contact-us/index.html
 _type: Article
 
@@ -38,4 +38,4 @@ Phone 63 (2) 850 3860
 
 ​
 
-Email          hr.tritec@gmail.com
+Email hr.tritec@gmail.com
