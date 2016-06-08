@@ -8,8 +8,8 @@ description: >-
   Customers First – Satisfaction of our customers is the very core of the
   organization. Delivering efficient-cost, quality and dependable products and
   services is the main priority of our company.
-datePublished: '2016-06-07T08:04:10.196Z'
-dateModified: '2016-06-07T08:02:12.823Z'
+datePublished: '2016-06-08T02:20:27.454Z'
+dateModified: '2016-06-08T01:16:01.581Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-our-values.md
@@ -29,3 +29,4 @@ _type: Article
 **Workforce** -- We strive to give our people the rightful benefits and opportunities to grow and develop further their talents and skills.
 
 **Social Responsibility** -- As a fully-owned Filipino corporation, our corporate social responsibility is to enrich and alleviate the lives of the Filipino people by creating jobs and opportunities in the coming years.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc5faacd-3b47-41a4-8e4b-910a60b83ee0.jpg)
