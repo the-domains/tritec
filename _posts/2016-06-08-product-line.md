@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Private networking division
-datePublished: '2016-06-08T01:44:35.678Z'
-dateModified: '2016-06-08T01:44:20.964Z'
+datePublished: '2016-06-08T02:04:40.213Z'
+dateModified: '2016-06-08T02:04:29.609Z'
 title: ''
 author: []
 authors: []
@@ -206,6 +206,3 @@ Power Inverters are electrical devices designed to convert direct current (DC) t
 * 1000W
 
 * 1500W
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd440d3-59ba-46f8-b372-a23e54312aea.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7229dc00-1afb-4568-8f46-ad83899cc218.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0de3b4e6-b958-433d-8e4a-6c2280856ab6.png)
